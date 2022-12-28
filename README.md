@@ -1,4 +1,4 @@
-#EXPLORATORY DATA ANALYSIS ON IMDB DATASET
+#*EXPLORATORY DATA ANALYSIS ON IMDB DATASET*
 
 In this project I will be doing analysis of IMDB dataset obtained from kagggle. Few of the business questions that I am going to explore are as below.
 
