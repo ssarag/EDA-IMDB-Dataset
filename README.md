@@ -110,7 +110,8 @@ As we can see from the below table, Directors like 'George Lucas', 'Lana Wachows
 
 # 10. Trend Analysis of the Genre for each Decade
 
-![image](https://user-images.githubusercontent.com/103538049/209875649-ca81dbc5-1495-4166-9b1b-68d95aba0c68.png)
+![image](https://user-images.githubusercontent.com/103538049/209875831-f302f51a-82d7-4bb5-81ce-5f5d687830cc.png)
+
 
 
 From the above bar chart, it can be seen that the genre of the movies gradually changed with each passing decade.For exmaple in the decade of 1960-1970 movies with genre Romance, Family and drama earned the meximum gross but in the next decade i.e. 1970-1980 movies with genre Adventure, Action and Fantasy were trending. THe tred for the movies with genre Sci-Fi started in the year 1990 and now it is the most famous and highest grossearing genre.
