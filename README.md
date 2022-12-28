@@ -89,3 +89,33 @@ From the above result, it is clear that even tough some of the movies do not hav
 
 
 
+
+# 7. Scatter plots of Gross with respect to IMDB Rating and No of Votes.
+![image](https://user-images.githubusercontent.com/103538049/209875326-bf472e51-3cc0-4c4c-b86f-ffb1880d516c.png)
+
+
+![image](https://user-images.githubusercontent.com/103538049/209875369-a50bae6c-ecec-4669-b687-c3445cf7cdac.png)
+
+It can be seen from the plots that gross of the movies are close to each other with respect to the IMDB Ratings and No of Votes. There are few movies which have done exceptionally good in terms of gross.
+
+# 8. Directos of top gross generating Movies
+As we can see from the below table, Directors like 'George Lucas', 'Lana Wachowski' and 'Frank Darabont' have given movies with highest earing gross. The ratings of the movies directed by these directs are not among the top rated movies, but the gross earned is more than those movies.
+
+
+![image](https://user-images.githubusercontent.com/103538049/209875444-c20e629d-292b-48bb-94d3-d3e501a93310.png)
+
+
+# 9.  Top rated actors and their gross
+![image](https://user-images.githubusercontent.com/103538049/209875506-527dd5da-b3c4-4412-abb6-da236aa69e7f.png)
+
+# 10. Trend Analysis of the Genre for each Decade
+
+![image](https://user-images.githubusercontent.com/103538049/209875649-ca81dbc5-1495-4166-9b1b-68d95aba0c68.png)
+
+
+From the above bar chart, it can be seen that the genre of the movies gradually changed with each passing decade.For exmaple in the decade of 1960-1970 movies with genre Romance, Family and drama earned the meximum gross but in the next decade i.e. 1970-1980 movies with genre Adventure, Action and Fantasy were trending. THe tred for the movies with genre Sci-Fi started in the year 1990 and now it is the most famous and highest grossearing genre.
+
+# 11 Recoomenation for the movie based on Analyis
+
+![image](https://user-images.githubusercontent.com/103538049/209875730-b2e5bb32-d8f9-4c13-a8cf-6973f0589039.png)
+
